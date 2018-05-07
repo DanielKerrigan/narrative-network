@@ -1,0 +1,91 @@
+{
+    "nodes": [
+        {
+            "id": "Durant",
+            "size": 1.0,
+            "sentence": 1
+        },
+        {
+            "id": "points",
+            "size": 1.0,
+            "sentence": 1
+        },
+        {
+            "id": "James",
+            "size": 1.0,
+            "sentence": 2
+        },
+        {
+            "id": "Curry",
+            "size": 1.0,
+            "sentence": 3
+        },
+        {
+            "id": "Livingston",
+            "size": 1.0,
+            "sentence": 4
+        },
+        {
+            "id": "Irving",
+            "size": 1.0,
+            "sentence": 3
+        }
+    ],
+    "links": [
+        {
+            "stats": {},
+            "people": [],
+            "locations": [],
+            "times": [],
+            "teams": [],
+            "source": "Durant",
+            "verb": "scored",
+            "target": "points",
+            "sentence": 1
+        },
+        {
+            "stats": {},
+            "people": [],
+            "locations": [],
+            "times": [],
+            "teams": [],
+            "source": "James",
+            "verb": "guarded",
+            "target": "Durant",
+            "sentence": 2
+        },
+        {
+            "stats": {},
+            "people": [],
+            "locations": [],
+            "times": [],
+            "teams": [],
+            "source": "Curry",
+            "verb": "fouled",
+            "target": "Irving",
+            "sentence": 3
+        },
+        {
+            "stats": {},
+            "people": [],
+            "locations": [],
+            "times": [],
+            "teams": [],
+            "source": "Irving",
+            "verb": "blocked",
+            "target": "Curry",
+            "sentence": 5
+        },
+        {
+            "stats": {},
+            "people": [],
+            "locations": [],
+            "times": [],
+            "teams": [],
+            "source": "Livingston",
+            "verb": "scored",
+            "target": "points",
+            "sentence": 4
+        }
+    ]
+}

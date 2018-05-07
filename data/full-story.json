@@ -1,0 +1,768 @@
+{
+    "nodes": [
+        {
+            "team": "Warriors",
+            "sentence": 3,
+            "type": "subject",
+            "id": "the Warriors",
+            "size": 1.0
+        },
+        {
+            "team": "Warriors",
+            "sentence": 1,
+            "type": "subject",
+            "id": "Kevin Durant",
+            "size": 1.0
+        },
+        {
+            "team": "Cavaliers",
+            "sentence": 12,
+            "type": "subject",
+            "id": "the Cavaliers",
+            "size": 1.0
+        },
+        {
+            "team": "Cavaliers",
+            "sentence": 14,
+            "type": "subject",
+            "id": "James and Irving",
+            "size": 1.0
+        },
+        {
+            "team": "Warriors",
+            "sentence": 22,
+            "type": "subject",
+            "id": "Andre Iguodala",
+            "size": 1.0
+        },
+        {
+            "team": "Warriors",
+            "sentence": 8,
+            "type": "subject",
+            "id": "Stephen Curry",
+            "size": 1.0
+        },
+        {
+            "team": "Cavaliers",
+            "sentence": 11,
+            "type": "subject",
+            "id": "LeBron James",
+            "size": 1.0
+        },
+        {
+            "team": "Cavaliers",
+            "sentence": 16,
+            "type": "subject",
+            "id": "Kyrie Irving",
+            "size": 1.0
+        },
+        {
+            "team": "Warriors",
+            "sentence": 7,
+            "type": "subject",
+            "id": "Klay Thompson",
+            "size": 1.0
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "his deep shot",
+            "sentence": "1"
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "the shot of his professional life",
+            "sentence": "3"
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "six",
+            "sentence": "4"
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "the longest postseason streak",
+            "sentence": "8"
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "the Finals",
+            "sentence": "9"
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "one of the best",
+            "sentence": "10"
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "30 points",
+            "sentence": "17"
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "26",
+            "sentence": "17"
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "the Finals aftermath",
+            "sentence": "18"
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "a third straight crown",
+            "sentence": "18"
+        },
+        {
+            "team": "Cavaliers",
+            "size": 1.0,
+            "type": "object",
+            "id": "a knee-buckling blow",
+            "sentence": "21"
+        },
+        {
+            "team": "Cavaliers",
+            "size": 1.0,
+            "type": "object",
+            "id": "3:09",
+            "sentence": "21"
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "a layup",
+            "sentence": "22"
+        },
+        {
+            "team": "Cavaliers",
+            "size": 1.0,
+            "type": "object",
+            "id": "the Cavs",
+            "sentence": "22"
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "his 3",
+            "sentence": "22"
+        },
+        {
+            "team": "Cavaliers",
+            "size": 1.0,
+            "type": "object",
+            "id": "a 3",
+            "sentence": "28"
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "it",
+            "sentence": "28"
+        },
+        {
+            "team": "Cavaliers",
+            "size": 1.0,
+            "type": "object",
+            "id": "the second half",
+            "sentence": "32"
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "10 of 18",
+            "sentence": "35"
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "any other player",
+            "sentence": "36"
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "a record 9 3-pointers",
+            "sentence": "37"
+        },
+        {
+            "team": "Warriors",
+            "size": 1.0,
+            "type": "object",
+            "id": "several big plays",
+            "sentence": "37"
+        },
+        {
+            "team": "Cavaliers",
+            "size": 1.0,
+            "type": "object",
+            "id": "20 or more Finals games",
+            "sentence": "44"
+        }
+    ],
+    "links": [
+        {
+            "stats": {},
+            "target": "his deep shot",
+            "people": [
+                "Kevin Durant"
+            ],
+            "sentence": "1",
+            "locations": [],
+            "times": [],
+            "source": "Kevin Durant",
+            "verb": "released",
+            "teams": []
+        },
+        {
+            "stats": {
+                "118-113": {
+                    "who": "Warriors",
+                    "type": "score/record"
+                },
+                "scored 31 points": {
+                    "who": "Durant",
+                    "type": "points"
+                },
+                "3-0": {
+                    "who": "Warriors",
+                    "type": "score/record"
+                }
+            },
+            "target": "the shot of his professional life",
+            "people": [
+                "Kevin Durant",
+                "LeBron James"
+            ],
+            "sentence": "3",
+            "locations": [],
+            "times": [
+                "45.3 seconds left"
+            ],
+            "source": "Kevin Durant",
+            "verb": "drained",
+            "teams": [
+                "Warriors",
+                "Cleveland Cavaliers"
+            ]
+        },
+        {
+            "stats": {
+                "scoring 14 in the fourth": {
+                    "who": "Durant",
+                    "type": "points"
+                },
+                "trailed by six": {
+                    "who": "Warriors",
+                    "type": "trailed"
+                }
+            },
+            "target": "six",
+            "people": [],
+            "sentence": "4",
+            "locations": [],
+            "times": [
+                "three minutes left"
+            ],
+            "source": "the Warriors",
+            "verb": "trailed by",
+            "teams": [
+                "Warriors",
+                "Oklahoma City"
+            ]
+        },
+        {
+            "stats": {
+                "longest postseason streak": {
+                    "who": "Warriors",
+                    "type": "N-est"
+                },
+                "15th straight win": {
+                    "who": "Warriors",
+                    "type": "N straight"
+                }
+            },
+            "target": "the longest postseason streak",
+            "people": [],
+            "sentence": "8",
+            "locations": [],
+            "times": [],
+            "source": "the Warriors",
+            "verb": "now have",
+            "teams": [
+                "Warriors"
+            ]
+        },
+        {
+            "stats": {
+                "3-1 lead in the Finals": {
+                    "who": "Warriors",
+                    "type": "score/record"
+                }
+            },
+            "target": "the Finals",
+            "people": [],
+            "sentence": "9",
+            "locations": [],
+            "times": [],
+            "source": "the Warriors",
+            "verb": "blew a 3-1 lead in",
+            "teams": [
+                "Golden State",
+                "Warriors",
+                "Cavaliers"
+            ]
+        },
+        {
+            "stats": {
+                "3-0": {
+                    "who": "general",
+                    "type": "score/record"
+                }
+            },
+            "target": "one of the best",
+            "people": [],
+            "sentence": "10",
+            "locations": [],
+            "times": [],
+            "source": "the Warriors",
+            "verb": "may go down as",
+            "teams": [
+                "Warriors"
+            ]
+        },
+        {
+            "stats": {
+                "added 30 points": {
+                    "who": "Thompson",
+                    "type": "points"
+                },
+                "second title in three years": {
+                    "who": "Warriors",
+                    "type": "N in M"
+                },
+                "had 26": {
+                    "who": "Curry",
+                    "type": "points"
+                }
+            },
+            "target": "30 points",
+            "people": [
+                "Klay Thompson",
+                "Stephen Curry"
+            ],
+            "sentence": "17",
+            "locations": [],
+            "times": [],
+            "source": "Klay Thompson",
+            "verb": "added",
+            "teams": [
+                "California"
+            ]
+        },
+        {
+            "stats": {
+                "added 30 points": {
+                    "who": "Thompson",
+                    "type": "points"
+                },
+                "second title in three years": {
+                    "who": "Warriors",
+                    "type": "N in M"
+                },
+                "had 26": {
+                    "who": "Curry",
+                    "type": "points"
+                }
+            },
+            "target": "26",
+            "people": [
+                "Klay Thompson",
+                "Stephen Curry"
+            ],
+            "sentence": "17",
+            "locations": [],
+            "times": [],
+            "source": "Stephen Curry",
+            "verb": "had",
+            "teams": [
+                "California"
+            ]
+        },
+        {
+            "stats": {
+                "third straight crown": {
+                    "who": "Warriors",
+                    "type": "N straight"
+                }
+            },
+            "target": "the Finals aftermath",
+            "people": [],
+            "sentence": "18",
+            "locations": [],
+            "times": [],
+            "source": "the Warriors",
+            "verb": "got lost in",
+            "teams": [
+                "Warriors"
+            ]
+        },
+        {
+            "stats": {
+                "third straight crown": {
+                    "who": "Warriors",
+                    "type": "N straight"
+                }
+            },
+            "target": "a third straight crown",
+            "people": [],
+            "sentence": "18",
+            "locations": [],
+            "times": [],
+            "source": "the Warriors",
+            "verb": "would be looking for",
+            "teams": [
+                "Warriors"
+            ]
+        },
+        {
+            "stats": {
+                "113-107": {
+                    "who": "Cavaliers",
+                    "type": "score/record"
+                },
+                "scoring 39": {
+                    "who": "James",
+                    "type": "points"
+                },
+                "added 38": {
+                    "who": "Irving",
+                    "type": "points"
+                }
+            },
+            "target": "a knee-buckling blow",
+            "people": [
+                "LeBron James",
+                "Kyrie Irving",
+                "J.R. Smith"
+            ],
+            "sentence": "21",
+            "locations": [],
+            "times": [
+                "3:09 left"
+            ],
+            "source": "LeBron James",
+            "verb": "shook off",
+            "teams": [
+                "Cavaliers"
+            ]
+        },
+        {
+            "stats": {
+                "113-107": {
+                    "who": "Cavaliers",
+                    "type": "score/record"
+                },
+                "scoring 39": {
+                    "who": "James",
+                    "type": "points"
+                },
+                "added 38": {
+                    "who": "Irving",
+                    "type": "points"
+                }
+            },
+            "target": "3:09",
+            "people": [
+                "LeBron James",
+                "Kyrie Irving",
+                "J.R. Smith"
+            ],
+            "sentence": "21",
+            "locations": [],
+            "times": [
+                "3:09 left"
+            ],
+            "source": "the Cavaliers",
+            "verb": "took a 113-107 lead with",
+            "teams": [
+                "Cavaliers"
+            ]
+        },
+        {
+            "stats": {},
+            "target": "a layup",
+            "people": [
+                "Stephen Curry",
+                "LeBron James",
+                "Kyrie Irving",
+                "Kevin Durant"
+            ],
+            "sentence": "22",
+            "locations": [],
+            "times": [],
+            "source": "Stephen Curry",
+            "verb": "hit",
+            "teams": [
+                "Cavs",
+                "Warriors"
+            ]
+        },
+        {
+            "stats": {},
+            "target": "the Cavs",
+            "people": [
+                "Stephen Curry",
+                "LeBron James",
+                "Kyrie Irving",
+                "Kevin Durant"
+            ],
+            "sentence": "22",
+            "locations": [],
+            "times": [],
+            "source": "James and Irving",
+            "verb": "missed for",
+            "teams": [
+                "Cavs",
+                "Warriors"
+            ]
+        },
+        {
+            "stats": {},
+            "target": "his 3",
+            "people": [
+                "Stephen Curry",
+                "LeBron James",
+                "Kyrie Irving",
+                "Kevin Durant"
+            ],
+            "sentence": "22",
+            "locations": [],
+            "times": [],
+            "source": "Kevin Durant",
+            "verb": "dropped",
+            "teams": [
+                "Cavs",
+                "Warriors"
+            ]
+        },
+        {
+            "stats": {
+                "with four free throws": {
+                    "who": "Warriors",
+                    "type": "free throws"
+                }
+            },
+            "target": "a 3",
+            "people": [
+                "Kyrie Irving"
+            ],
+            "sentence": "28",
+            "locations": [],
+            "times": [
+                "final 12.9 seconds"
+            ],
+            "source": "Kyrie Irving",
+            "verb": "missed",
+            "teams": [
+                "Golden State",
+                "Warriors"
+            ]
+        },
+        {
+            "stats": {
+                "with four free throws": {
+                    "who": "Warriors",
+                    "type": "free throws"
+                }
+            },
+            "target": "it",
+            "people": [
+                "Kyrie Irving"
+            ],
+            "sentence": "28",
+            "locations": [],
+            "times": [
+                "final 12.9 seconds"
+            ],
+            "source": "the Warriors",
+            "verb": "closed",
+            "teams": [
+                "Golden State",
+                "Warriors"
+            ]
+        },
+        {
+            "stats": {},
+            "target": "the second half",
+            "people": [
+                "LeBron James",
+                "Kyrie Irving"
+            ],
+            "sentence": "32",
+            "locations": [],
+            "times": [],
+            "source": "James and Irving",
+            "verb": "were relentless in",
+            "teams": [
+                "Cleveland"
+            ]
+        },
+        {
+            "stats": {
+                "eight rebounds": {
+                    "who": "Durant",
+                    "type": "rebounds"
+                },
+                "four assists": {
+                    "who": "Durant",
+                    "type": "assists"
+                },
+                "finished 10 of 18": {
+                    "who": "Durant",
+                    "type": "N of M"
+                }
+            },
+            "target": "10 of 18",
+            "people": [
+                "Stephen Curry",
+                "Kevin Durant"
+            ],
+            "sentence": "35",
+            "locations": [],
+            "times": [],
+            "source": "Kevin Durant",
+            "verb": "finished",
+            "teams": []
+        },
+        {
+            "stats": {
+                "added 13 rebounds": {
+                    "who": "Curry",
+                    "type": "rebounds"
+                },
+                "six assists": {
+                    "who": "Curry",
+                    "type": "assists"
+                }
+            },
+            "target": "any other player",
+            "people": [
+                "Stephen Curry",
+                "Kevin Durant"
+            ],
+            "sentence": "36",
+            "locations": [],
+            "times": [],
+            "source": "Stephen Curry",
+            "verb": "has benefited more than",
+            "teams": []
+        },
+        {
+            "stats": {
+                "second straight game": {
+                    "who": "Kerr",
+                    "type": "N straight"
+                },
+                "9 3-pointers in the first quarter": {
+                    "who": "Warriors",
+                    "type": "3-pointers"
+                },
+                "finished 16 of 33": {
+                    "who": "Warriors",
+                    "type": "N of M"
+                }
+            },
+            "target": "a record 9 3-pointers",
+            "people": [
+                "Kerr",
+                "Andre Iguodala",
+                "LeBron James"
+            ],
+            "sentence": "37",
+            "locations": [
+                "behind the arc"
+            ],
+            "times": [
+                "12.6 seconds left"
+            ],
+            "source": "the Warriors",
+            "verb": "made",
+            "teams": [
+                "Golden State"
+            ]
+        },
+        {
+            "stats": {
+                "second straight game": {
+                    "who": "Kerr",
+                    "type": "N straight"
+                },
+                "9 3-pointers in the first quarter": {
+                    "who": "Warriors",
+                    "type": "3-pointers"
+                },
+                "finished 16 of 33": {
+                    "who": "Warriors",
+                    "type": "N of M"
+                }
+            },
+            "target": "several big plays",
+            "people": [
+                "Kerr",
+                "Andre Iguodala",
+                "LeBron James"
+            ],
+            "sentence": "37",
+            "locations": [
+                "behind the arc"
+            ],
+            "times": [
+                "12.6 seconds left"
+            ],
+            "source": "Andre Iguodala",
+            "verb": "had",
+            "teams": [
+                "Golden State"
+            ]
+        },
+        {
+            "stats": {},
+            "target": "20 or more Finals games",
+            "people": [
+                "LeBron James"
+            ],
+            "sentence": "44",
+            "locations": [],
+            "times": [],
+            "source": "LeBron James",
+            "verb": "became the first player to appear in",
+            "teams": []
+        }
+    ]
+}

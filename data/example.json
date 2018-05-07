@@ -1,0 +1,34 @@
+{
+    "nodes": [
+        {
+            "sentence": 3,
+            "size": 1.0,
+            "id": "the Warriors"
+        },
+        {
+            "sentence": 8,
+            "size": 1.0,
+            "id": "the longest postseason streak"
+        },
+        {
+            "sentence": 9,
+            "size": 1.0,
+            "id": "the Finals"
+        },
+        {
+            "sentence": 1,
+            "size": 1.0,
+            "id": "Kevin Durant",
+        },
+        {
+            "sentence": 1,
+            "size": 1.0,
+            "id": "his deep shot"
+        },
+        {
+            "sentence": 35,
+            "size": 1.0,
+            "id": "10 of 18"
+        }
+    ]
+}

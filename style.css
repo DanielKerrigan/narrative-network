@@ -1,0 +1,90 @@
+.node_label {
+    text-anchor: middle;
+    font-family: sans-serif;
+    font-size: 24px;
+    fill: white;
+}
+
+.cavs {
+    fill: rgb(111, 38, 61);
+}
+
+.warriors {
+    fill: rgb(0, 61, 165);
+}
+
+.object {
+    fill: gray;
+}
+
+.edge_label {
+    text-anchor: middle;
+    font-family: sans-serif;
+    fill: black;
+}
+
+.edge {
+    stroke-width: 2;
+}
+
+#positive-edge {
+    stroke: lightgreen;
+    fill: none;
+}
+
+#positive-arrow {
+    fill: lightgreen;
+    stroke: lightgreen;
+}
+
+#neutral-edge {
+    stroke: lightgray;
+    fill: none;
+}
+
+#neutral-arrow {
+    fill: lightgray;
+    stroke: lightgray;
+}
+
+#negative-edge {
+    stroke: lightsalmon;
+    fill: none;
+}
+
+#negative-arrow {
+    fill: lightsalmon;
+    stroke: lightsalmon;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+#vis {
+    width: 1000px;
+    height: 700px;
+    margin: 0 auto;
+}
+
+#control {
+    margin: 20px auto;
+    width: 50%;
+    text-align: center;
+}
+
+#minus, #plus {
+    width: 2em;
+    height: 2em;
+    border: none;
+    background: gray;
+    color: white;
+    text-align: center;
+}
+
+#sentence-number {
+    margin: 0.5em;
+    font-family: sans-serif;
+}
